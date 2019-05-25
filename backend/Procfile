@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT edwardauto_3842.wsgi:application
